@@ -4,390 +4,392 @@
 #EXT-X-SUB-URL https://www.stream-link.org/stream-link.m3u
 
 #EXTINF:-1 tvg-id="Jade.my" tvg-name="華麗(翡翠台)" tvg-logo="http://content.stream-link.org/tv_logo/astro_jade.png" group-title="Astro",華麗(翡翠台)
-https://sc2024.stream-link.org/live/155248215124.php?id=h189qhe
+https://sc2024.stream-link.org/live/155248215124.php?id=h009thh
 #EXTINF:-1 tvg-id="TVBJade" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台
-https://sc2024.stream-link.org/live/155248215124.php?id=h691jhq
+https://sc2024.stream-link.org/live/155248215124.php?id=h499vhm
 #EXTINF:-1 tvg-id="TVBJade" tvg-name="翡翠台(備用)" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台(備用)
-https://sc2024.stream-link.org/live/155248215124.php?id=h202hhv
+https://sc2024.stream-link.org/live/155248215124.php?id=h983rhr
 #EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVB Plus" tvg-logo="http://content.stream-link.org/tv_logo/tvb_plus.png" group-title="TVB",TVB Plus
-https://sc2024.stream-link.org/live/155248215124.php?id=h543zhp
+https://sc2024.stream-link.org/live/155248215124.php?id=h320ahr
 #EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVB Plus" tvg-logo="http://content.stream-link.org/tv_logo/tvb_plus.png" group-title="TVB",TVB Plus(備用)
-https://sc2024.stream-link.org/live/155248215124.php?id=h634shm
+https://sc2024.stream-link.org/live/155248215124.php?id=h924jhc
 #EXTINF:-1 tvg-id="TVBNews" tvg-name="無綫新聞台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_news.png" group-title="TVB",無綫新聞台
-https://sc2024.stream-link.org/live/155248215124.php?id=h421khz
+https://sc2024.stream-link.org/live/155248215124.php?id=h569ahs
 #EXTINF:-1 tvg-id="TVBNews" tvg-name="無綫新聞台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_news.png" group-title="TVB",無綫新聞台(備用)
-https://sc2024.stream-link.org/live/155248215124.php?id=h065qhm
+https://sc2024.stream-link.org/live/155248215124.php?id=h199qha
 #EXTINF:-1 tvg-id="nowNews" tvg-name="now新聞台" tvg-logo="http://content.stream-link.org/tv_logo/now_332.png" group-title="香港電視娛樂",now新聞台
-https://sc2024.stream-link.org/live/155248215124.php?id=h414mhw
+https://sc2024.stream-link.org/live/155248215124.php?id=h023dhp
 #EXTINF:-1 tvg-id="nowBusinessNewsChannel" tvg-name="now財經台" tvg-logo="http://content.stream-link.org/tv_logo/now_333.png" group-title="香港電視娛樂",now財經台
-https://sc2024.stream-link.org/live/155248215124.php?id=h409phn
+https://sc2024.stream-link.org/live/155248215124.php?id=h695uhr
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV99" tvg-logo="http://content.stream-link.org/tv_logo/viutv.png" group-title="香港電視娛樂",ViuTV99
-https://sc2024.stream-link.org/live/155248215124.php?id=h292chd
-#EXTINF:-1 tvg-id="EntertainmentNews" tvg-name="TVB娛樂新聞台" tvg-logo="http://content.stream-link.org/tv_logo/astro_tvb_entertainment.png" group-title="TVB",TVB娛樂新聞台
-https://sc2024.stream-link.org/live/155248215124.php?id=h386nhr
+https://sc2024.stream-link.org/live/155248215124.php?id=h747ahu
+#EXTINF:-1 tvg-id="nowChineseDramaChannel" tvg-name="now華劇台" tvg-logo="http://content.stream-link.org/tv_logo/now_105.png" group-title="香港電視娛樂",now華劇台
+https://sc2024.stream-link.org/live/155248215124.php?id=h928zhg
 #EXTINF:-1 tvg-id="RTHKTV31" tvg-name="港台电视31" tvg-logo="http://content.stream-link.org/tv_logo/rthk_31.png" group-title="RTHK",港台电视31
-https://sc2024.stream-link.org/live/155248215124.php?id=h233shu
+https://sc2024.stream-link.org/live/155248215124.php?id=h405dhs
 #EXTINF:-1 tvg-id="RTHKTV32" tvg-name="港台电视32" tvg-logo="http://content.stream-link.org/tv_logo/rthk_32.png" group-title="RTHK",港台电视32
-https://sc2024.stream-link.org/live/155248215124.php?id=h996chn
+https://sc2024.stream-link.org/live/155248215124.php?id=h996zhr
 #EXTINF:-1 tvg-id="RTHKTV33" tvg-name="港台电视33" tvg-logo="http://content.stream-link.org/tv_logo/rthk_33.png" group-title="RTHK",港台电视33
-https://sc2024.stream-link.org/live/155248215124.php?id=h914vhj
+https://sc2024.stream-link.org/live/155248215124.php?id=h287khw
 #EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="中央新聞台" tvg-logo="http://content.stream-link.org/tv_logo/cn_cctv13.png" group-title="中國央視",中央新聞台
-https://sc2024.stream-link.org/live/155248215124.php?id=h224hhd
+https://sc2024.stream-link.org/live/155248215124.php?id=h935ghz
 #EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="http://content.stream-link.org/tv_logo/hoy_76.png" group-title="奇妙電視",76國際財經
-https://sc2024.stream-link.org/live/155248215124.php?id=h854mhp
+https://sc2024.stream-link.org/live/155248215124.php?id=h283phc
 #EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="http://content.stream-link.org/tv_logo/hoy_77.png" group-title="奇妙電視",77開電視
-https://sc2024.stream-link.org/live/155248215124.php?id=h129ehs
+https://sc2024.stream-link.org/live/155248215124.php?id=h464qhw
 #EXTINF:-1 tvg-id="78" tvg-name="香港開電視資訊台" tvg-logo="http://content.stream-link.org/tv_logo/hoy_78.png" group-title="奇妙電視",78資訊台
-https://sc2024.stream-link.org/live/155248215124.php?id=h209bhz
+https://sc2024.stream-link.org/live/155248215124.php?id=h513zhw
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel" tvg-logo="http://content.stream-link.org/tv_logo/phtv_info.png" group-title="鳳凰衛視",鳳凰衛視資訊台
-https://sc2024.stream-link.org/live/155248215124.php?id=h471ahp
+https://sc2024.stream-link.org/live/155248215124.php?id=h871jhw
 #EXTINF:-1 tvg-id="PhoenixChineseChannel" tvg-name="鳳凰衛視中文台" tvg-logo="http://content.stream-link.org/tv_logo/phtv_live.png" group-title="鳳凰衛視",鳳凰衛視中文台
-https://sc2024.stream-link.org/live/155248215124.php?id=h487sha
+https://sc2024.stream-link.org/live/155248215124.php?id=h339bhz
 #EXTINF:-1 tvg-id="PhoenixHongKongChannel" tvg-name="鳳凰衛視香港台" tvg-logo="http://content.stream-link.org/tv_logo/phtv_hk.png" group-title="鳳凰衛視",鳳凰衛視香港台
-https://sc2024.stream-link.org/live/155248215124.php?id=h584phm
-#EXTINF:-1 tvg-id="MacauLotusTV" tvg-name="澳門蓮花衛視" tvg-logo="http://content.stream-link.org/tv_logo/macault.png" group-title="電影&劇集",澳門蓮花衛視
-https://sc2024.stream-link.org/live/155248215124.php?id=h872qha
+https://sc2024.stream-link.org/live/155248215124.php?id=h595chc
+#EXTINF:-1 tvg-id="EntertainmentNews" tvg-name="TVB娛樂新聞台" tvg-logo="http://content.stream-link.org/tv_logo/astro_tvb_entertainment.png" group-title="TVB",TVB娛樂新聞台
+https://sc2024.stream-link.org/live/155248215124.php?id=h103qht
 #EXTINF:-1 tvg-id="TVBXingHe" tvg-name="TVB星河台(粵語)" tvg-logo="http://content.stream-link.org/tv_logo/mytv_214.png" group-title="電影&劇集",TVB星河台(粵語)
-https://sc2024.stream-link.org/live/155248215124.php?id=h864nht
+https://sc2024.stream-link.org/live/155248215124.php?id=h838ahv
 #EXTINF:-1 tvg-id="TVBXingHe" tvg-name="TVB星河台(國語)" tvg-logo="http://content.stream-link.org/tv_logo/mytv_214.png" group-title="電影&劇集",TVB星河台(國語)
-https://sc2024.stream-link.org/live/155248215124.php?id=h584nhk
+https://sc2024.stream-link.org/live/155248215124.php?id=h029jhn
 #EXTINF:-1 tvg-id="TVBClassic" tvg-name="TVB千禧經典台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_classic.png" group-title="電影&劇集",TVB千禧經典台
-https://sc2024.stream-link.org/live/155248215124.php?id=h439rhe
+https://sc2024.stream-link.org/live/155248215124.php?id=h971uhb
 #EXTINF:-1 tvg-id="CelestialMovies.my" tvg-name="天映頻道" tvg-logo="http://content.stream-link.org/tv_logo/astro_celestial_movies.png" group-title="電影&劇集",Astro天映頻道
-https://sc2024.stream-link.org/live/155248215124.php?id=h181ahj
+https://sc2024.stream-link.org/live/155248215124.php?id=h250phs
 #EXTINF:-1 tvg-id="MytvSuperFree" tvg-name="MytvSuper Free" tvg-logo="http://content.stream-link.org/tv_logo/mytvsuper.png" group-title="電影&劇集",MytvSuper Free
-https://sc2024.stream-link.org/live/155248215124.php?id=h090chp
+https://sc2024.stream-link.org/live/155248215124.php?id=h327khf
 #EXTINF:-1 tvg-id="AsianDrama" tvg-name="亞洲劇集台" tvg-logo="http://content.stream-link.org/tv_logo/mytvsuper.png" group-title="電影&劇集",TVB亞洲劇集台
-https://sc2024.stream-link.org/live/155248215124.php?id=h993fhq
+https://sc2024.stream-link.org/live/155248215124.php?id=h258mhv
 #EXTINF:-1 tvg-id="ChineseDrama" tvg-name="華語劇集台" tvg-logo="http://content.stream-link.org/tv_logo/mytvsuper.png" group-title="電影&劇集",TVB華語劇集台
-https://sc2024.stream-link.org/live/155248215124.php?id=h292jhr
+https://sc2024.stream-link.org/live/155248215124.php?id=h650hhd
 #EXTINF:-1 tvg-id="MeiAhMovieChannel" tvg-name="美亞電影台" tvg-logo="http://content.stream-link.org/tv_logo/mytv_201.png" group-title="電影&劇集",美亞電影台
-https://sc2024.stream-link.org/live/155248215124.php?id=h777hhs
+https://sc2024.stream-link.org/live/155248215124.php?id=h199khc
 #EXTINF:-1 tvg-id="AstroAOD311" tvg-name="Astro AOD" tvg-logo="http://content.stream-link.org/tv_logo/astro_aod.png" group-title="Astro",Astro AOD
-https://sc2024.stream-link.org/live/155248215124.php?id=h353chj
+https://sc2024.stream-link.org/live/155248215124.php?id=h129zhv
 #EXTINF:-1 tvg-id="AstroAEC" tvg-name="Astro AEC" tvg-logo="http://content.stream-link.org/tv_logo/astro_aec.png" group-title="Astro",Astro AEC
-https://sc2024.stream-link.org/live/155248215124.php?id=h554hhe
+https://sc2024.stream-link.org/live/155248215124.php?id=h824mhe
 #EXTINF:-1 tvg-id="Channel8" tvg-name="Channel 8" tvg-logo="http://content.stream-link.org/tv_logo/channel_8.png" group-title="新加坡",新加坡8頻道
-https://sc2024.stream-link.org/live/155248215124.php?id=h918ahq
+https://sc2024.stream-link.org/live/155248215124.php?id=h013shs
 #EXTINF:-1 tvg-id="ChannelU" tvg-name="Channel U" tvg-logo="http://content.stream-link.org/tv_logo/channel_u.png" group-title="新加坡",新加坡U頻道
-https://sc2024.stream-link.org/live/155248215124.php?id=h377ghc
+https://sc2024.stream-link.org/live/155248215124.php?id=h525eha
 #EXTINF:-1 tvg-id="HBOAsia" tvg-name="HBO Asia" tvg-logo="http://content.stream-link.org/tv_logo/hbo.png" group-title="電影&劇集",HBO Asia
-https://sc2024.stream-link.org/live/155248215124.php?id=h348jhf
+https://sc2024.stream-link.org/live/155248215124.php?id=h801uhp
 #EXTINF:-1 tvg-id="HBOFamilyAsia" tvg-name="HBO Family Asia" tvg-logo="http://content.stream-link.org/tv_logo/hbo_family.png" group-title="電影&劇集",HBO Family Asia
-https://sc2024.stream-link.org/live/155248215124.php?id=h844fhh
+https://sc2024.stream-link.org/live/155248215124.php?id=h523ehk
 #EXTINF:-1 tvg-id="HBOHitsAsia" tvg-name="HBO Hits Asia" tvg-logo="http://content.stream-link.org/tv_logo/hbo_hits.png" group-title="電影&劇集",HBO Hits Asia
-https://sc2024.stream-link.org/live/155248215124.php?id=h684thv
+https://sc2024.stream-link.org/live/155248215124.php?id=h319qhe
 #EXTINF:-1 tvg-id="HBOSignatureAsia" tvg-name="HBO Signature Asia" tvg-logo="http://content.stream-link.org/tv_logo/hbo_signature.png" group-title="電影&劇集",HBO Signature Asia
-https://sc2024.stream-link.org/live/155248215124.php?id=h814chh
+https://sc2024.stream-link.org/live/155248215124.php?id=h093chg
 #EXTINF:-1 tvg-id="CinemaxAsia" tvg-name="Cinemax Asia" tvg-logo="http://content.stream-link.org/tv_logo/Cinemax.png" group-title="電影&劇集",Cinemax Asia
-https://sc2024.stream-link.org/live/155248215124.php?id=h572rhm
+https://sc2024.stream-link.org/live/155248215124.php?id=h950hhm
+#EXTINF:-1 tvg-id="MacauLotusTV" tvg-name="澳門蓮花衛視" tvg-logo="http://content.stream-link.org/tv_logo/macault.png" group-title="電影&劇集",澳門蓮花衛視
+https://sc2024.stream-link.org/live/155248215124.php?id=h042uhp
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="http://content.stream-link.org/tv_logo/tvb_504.png" group-title="電影&劇集",Animax
-https://sc2024.stream-link.org/live/155248215124.php?id=h910thn
+https://sc2024.stream-link.org/live/155248215124.php?id=h875qhk
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://content.stream-link.org/tv_logo/tvb_502.png" group-title="電影&劇集",AXN
-https://sc2024.stream-link.org/live/155248215124.php?id=h455vhn
+https://sc2024.stream-link.org/live/155248215124.php?id=h490ehe
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="http://content.stream-link.org/tv_logo/tvb_202.png" group-title="電影&劇集",Thrill驚悚電影
-https://sc2024.stream-link.org/live/155248215124.php?id=h555nhm
+https://sc2024.stream-link.org/live/155248215124.php?id=h413fhm
 #EXTINF:-1 tvg-id="tvNAsia" tvg-name="tvN Asia" tvg-logo="http://content.stream-link.org/tv_logo/tvb_505.png" group-title="電影&劇集",tvN Asia
-https://sc2024.stream-link.org/live/155248215124.php?id=h976nhu
+https://sc2024.stream-link.org/live/155248215124.php?id=h279ahb
 #EXTINF:-1 tvg-id="ROCKExtreme" tvg-name="ROCK Action" tvg-logo="http://content.stream-link.org/tv_logo/tvb_205.png" group-title="電影&劇集",ROCK Action
-https://sc2024.stream-link.org/live/155248215124.php?id=h873mhs
+https://sc2024.stream-link.org/live/155248215124.php?id=h120chq
 #EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="http://content.stream-link.org/tv_logo/tvb_304.png" group-title="電影&劇集",KIX
-https://sc2024.stream-link.org/live/155248215124.php?id=h716vhp
+https://sc2024.stream-link.org/live/155248215124.php?id=h391qhb
 #EXTINF:-1 tvg-id="POPC" tvg-name="中國網絡電影" tvg-logo="http://content.stream-link.org/tv_logo/tvb_206.png" group-title="電影&劇集",PopC 中國網絡電影
-https://sc2024.stream-link.org/live/155248215124.php?id=h293php
+https://sc2024.stream-link.org/live/155248215124.php?id=h942chh
 #EXTINF:-1 tvg-id="nowSportsPrime" tvg-name="now精選體育" tvg-logo="http://content.stream-link.org/tv_logo/now_630.png" group-title="體育休閒",now精選體育
-https://sc2024.stream-link.org/live/155248215124.php?id=s639bsg
+https://sc2024.stream-link.org/live/155248215124.php?id=s107msw
 #EXTINF:-1 tvg-id="CCTV5.cn" tvg-name="CCTV5體育頻道" tvg-logo="http://content.stream-link.org/tv_logo/cn_cctv5.png" group-title="體育休閒",CCTV5體育頻道
-https://sc2024.stream-link.org/live/155248215124.php?id=s278fsa
+https://sc2024.stream-link.org/live/155248215124.php?id=s022jsp
 #EXTINF:-1 tvg-id="CBSSportsNetworkUSA" tvg-name="CBS Sports Network" tvg-logo="http://content.stream-link.org/tv_logo/cbs_sports_network.png" group-title="體育休閒",CBS Sports Network
-https://sc2024.stream-link.org/live/155248215124.php?id=s794rsz
+https://sc2024.stream-link.org/live/155248215124.php?id=s209bsj
 #EXTINF:-1 tvg-id="litv-longturn04" tvg-name="博斯魅力網" tvg-logo="http://content.stream-link.org/tv_logo/longturn04.png" group-title="體育休閒",博斯魅力網
-https://sc2024.stream-link.org/live/155248215124.php?id=s939usu
+https://sc2024.stream-link.org/live/155248215124.php?id=s494usf
 #EXTINF:-1 tvg-id="litv-longturn05" tvg-name="博斯高球台" tvg-logo="http://content.stream-link.org/tv_logo/longturn05.png" group-title="體育休閒",博斯高球一台
-https://sc2024.stream-link.org/live/155248215124.php?id=s615vsd
+https://sc2024.stream-link.org/live/155248215124.php?id=s191rsf
 #EXTINF:-1 tvg-id="litv-longturn06" tvg-name="博斯高球二台" tvg-logo="http://content.stream-link.org/tv_logo/longturn05.png" group-title="體育休閒",博斯高球二台
-https://sc2024.stream-link.org/live/155248215124.php?id=s960vsk
+https://sc2024.stream-link.org/live/155248215124.php?id=s767wsg
 #EXTINF:-1 tvg-id="litv-longturn07" tvg-name="博斯運動一台" tvg-logo="http://content.stream-link.org/tv_logo/longturn07.png" group-title="體育休閒",博斯運動一台
-https://sc2024.stream-link.org/live/155248215124.php?id=s899jsv
+https://sc2024.stream-link.org/live/155248215124.php?id=s839ass
 #EXTINF:-1 tvg-id="litv-longturn08" tvg-name="博斯運動二台" tvg-logo="http://content.stream-link.org/tv_logo/longturn07.png" group-title="體育休閒",博斯運動二台
-https://sc2024.stream-link.org/live/155248215124.php?id=s789asw
+https://sc2024.stream-link.org/live/155248215124.php?id=s445bsn
 #EXTINF:-1 tvg-id="litv-longturn09" tvg-name="博斯網球台" tvg-logo="http://content.stream-link.org/tv_logo/longturn09.png" group-title="體育休閒",博斯網球台
-https://sc2024.stream-link.org/live/155248215124.php?id=s229pst
+https://sc2024.stream-link.org/live/155248215124.php?id=s200jst
 #EXTINF:-1 tvg-id="litv-longturn10" tvg-name="博斯無限一台" tvg-logo="http://content.stream-link.org/tv_logo/longturn10.png" group-title="體育休閒",博斯無限一台
-https://sc2024.stream-link.org/live/155248215124.php?id=s628gsn
+https://sc2024.stream-link.org/live/155248215124.php?id=s973msa
 #EXTINF:-1 tvg-id="litv-longturn13" tvg-name="博斯無限二台" tvg-logo="http://content.stream-link.org/tv_logo/longturn10.png" group-title="體育休閒",博斯無限二台
-https://sc2024.stream-link.org/live/155248215124.php?id=s695esd
+https://sc2024.stream-link.org/live/155248215124.php?id=s007gsv
 #EXTINF:-1 tvg-id="DAZNF1" tvg-name="DAZN F1" tvg-logo="http://content.stream-link.org/tv_logo/dazn_f1.png" group-title="體育休閒",DAZN F1
-https://sc2024.stream-link.org/live/155248215124.php?id=s999gsb
+https://sc2024.stream-link.org/live/155248215124.php?id=s098ssh
 #EXTINF:-1 tvg-id="Laliga" tvg-name="DAZN Laliga" tvg-logo="http://content.stream-link.org/tv_logo/dazn_laliga.png" group-title="體育休閒",DAZN 西甲
-https://sc2024.stream-link.org/live/155248215124.php?id=s950bsj
+https://sc2024.stream-link.org/live/155248215124.php?id=s148gsa
 #EXTINF:-1 tvg-id="Unbeaten" tvg-name="Unbeaten" tvg-logo="http://content.stream-link.org/tv_logo/unbeaten.png" group-title="體育休閒",Unbeaten
-https://sc2024.stream-link.org/live/155248215124.php?id=s932ksh
+https://sc2024.stream-link.org/live/155248215124.php?id=s195wsa
 #EXTINF:-1 tvg-id="beINSPORTSXTRA" tvg-name="beIN SPORTS XTRA" tvg-logo="http://content.stream-link.org/tv_logo/bein_sports_xtra.png" group-title="體育休閒",beIN SPORTS XTRA
-https://sc2024.stream-link.org/live/155248215124.php?id=s726zsh
+https://sc2024.stream-link.org/live/155248215124.php?id=s546nss
 #EXTINF:-1 tvg-id="beINSports" tvg-name="beIN SPORTS" tvg-logo="http://content.stream-link.org/tv_logo/bein_sports.png" group-title="體育休閒",beIN SPORTS
-https://sc2024.stream-link.org/live/155248215124.php?id=s454msp
+https://sc2024.stream-link.org/live/155248215124.php?id=s602asd
 #EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN SPORTS 2" tvg-logo="http://content.stream-link.org/tv_logo/bein_sports2.png" group-title="體育休閒",beIN SPORTS 2
-https://sc2024.stream-link.org/live/155248215124.php?id=s113csu
+https://sc2024.stream-link.org/live/155248215124.php?id=s878nss
 #EXTINF:-1 tvg-id="beINSports3" tvg-name="beIN SPORTS 3" tvg-logo="http://content.stream-link.org/tv_logo/bein_sports3.png" group-title="體育休閒",beIN SPORTS 3
-https://sc2024.stream-link.org/live/155248215124.php?id=s707zsn
+https://sc2024.stream-link.org/live/155248215124.php?id=s552msm
 #EXTINF:-1 tvg-id="AstroSuperSport" tvg-name="Astro SUPERSPORT" tvg-logo="http://content.stream-link.org/tv_logo/astro_supersport.png" group-title="體育休閒",Astro SUPERSPORT
-https://sc2024.stream-link.org/live/155248215124.php?id=s102hsq
+https://sc2024.stream-link.org/live/155248215124.php?id=s160fsh
 #EXTINF:-1 tvg-id="AstroSuperSport2" tvg-name="Astro SUPERSPORT 2" tvg-logo="http://content.stream-link.org/tv_logo/astro_supersport2.png" group-title="體育休閒",Astro SUPERSPORT 2
-https://sc2024.stream-link.org/live/155248215124.php?id=s996asz
+https://sc2024.stream-link.org/live/155248215124.php?id=s770usj
 #EXTINF:-1 tvg-id="AstroSuperSport3" tvg-name="Astro SUPERSPORT 3" tvg-logo="http://content.stream-link.org/tv_logo/astro_supersport3.png" group-title="體育休閒",Astro SUPERSPORT 3
-https://sc2024.stream-link.org/live/155248215124.php?id=s114csn
+https://sc2024.stream-link.org/live/155248215124.php?id=s718jsf
 #EXTINF:-1 tvg-id="AstroSuperSport4" tvg-name="Astro SUPERSPORT 4" tvg-logo="http://content.stream-link.org/tv_logo/astro_supersport4.png" group-title="體育休閒",Astro SUPERSPORT 4
-https://sc2024.stream-link.org/live/155248215124.php?id=s628zsr
+https://sc2024.stream-link.org/live/155248215124.php?id=s967zsb
 #EXTINF:-1 tvg-id="ChampionsTVEPL" tvg-name="Peacock Premier League" tvg-logo="http://content.stream-link.org/tv_logo/peacock_premier_league.png" group-title="體育休閒",Peacock英超
-https://sc2024.stream-link.org/live/155248215124.php?id=s669fsm
+https://sc2024.stream-link.org/live/155248215124.php?id=s144jsu
 #EXTINF:-1 tvg-id="SkySportsPremierLeagueHD" tvg-name="Sky Sports Premier League" tvg-logo="http://content.stream-link.org/tv_logo/sky_sports_premier_league.png" group-title="體育休閒",Sky Sports 英超
-https://sc2024.stream-link.org/live/155248215124.php?id=s449ssk
+https://sc2024.stream-link.org/live/155248215124.php?id=s727dsw
 #EXTINF:-1 tvg-id="SkySportsArenaHD" tvg-name="Sky Sports Action" tvg-logo="http://content.stream-link.org/tv_logo/sky_sports_action.png" group-title="體育休閒",Sky Sports Action
-https://sc2024.stream-link.org/live/155248215124.php?id=s662tsk
+https://sc2024.stream-link.org/live/155248215124.php?id=s714nsp
 #EXTINF:-1 tvg-id="SkySportsArenaHD" tvg-name="Sky Sports Arena" tvg-logo="http://content.stream-link.org/tv_logo/sky_sports_arena.png" group-title="體育休閒",Sky Sports Arena
-https://sc2024.stream-link.org/live/155248215124.php?id=s998csv
+https://sc2024.stream-link.org/live/155248215124.php?id=s552asq
 #EXTINF:-1 tvg-id="SkySportsCricketHD" tvg-name="Sky Sports Cricket" tvg-logo="http://content.stream-link.org/tv_logo/sky_sports_cricket.png" group-title="體育休閒",Sky Sports Cricket
-https://sc2024.stream-link.org/live/155248215124.php?id=s750mss
+https://sc2024.stream-link.org/live/155248215124.php?id=s682hsb
 #EXTINF:-1 tvg-id="SkySportsF1HD" tvg-name="Sky Sports F1" tvg-logo="http://content.stream-link.org/tv_logo/sky_sports_f1.png" group-title="體育休閒",Sky Sports F1
-https://sc2024.stream-link.org/live/155248215124.php?id=s225wsn
+https://sc2024.stream-link.org/live/155248215124.php?id=s507kss
 #EXTINF:-1 tvg-id="SkySportsFootballHD" tvg-name="Sky Sports Football" tvg-logo="http://content.stream-link.org/tv_logo/sky_sports_football.png" group-title="體育休閒",Sky Sports Football
-https://sc2024.stream-link.org/live/155248215124.php?id=s010qsh
+https://sc2024.stream-link.org/live/155248215124.php?id=s512sss
 #EXTINF:-1 tvg-id="SkySportsGolfHD" tvg-name="Sky Sport Golf" tvg-logo="http://content.stream-link.org/tv_logo/sky_sports_golf.png" group-title="體育休閒",Sky Sports Golf
-https://sc2024.stream-link.org/live/155248215124.php?id=s723gsb
+https://sc2024.stream-link.org/live/155248215124.php?id=s124zsj
 #EXTINF:-1 tvg-id="SkySportsMainEventHD" tvg-name="Sky Sports Main Event" tvg-logo="http://content.stream-link.org/tv_logo/sky_sports_main_event.png" group-title="體育休閒",Sky Sports Main Event
-https://sc2024.stream-link.org/live/155248215124.php?id=s183usc
+https://sc2024.stream-link.org/live/155248215124.php?id=s086qsq
 #EXTINF:-1 tvg-id="SkySportsMixHD" tvg-name="Sky Sports Mix" tvg-logo="http://content.stream-link.org/tv_logo/sky_sports_mix.png" group-title="體育休閒",Sky Sports Mix
-https://sc2024.stream-link.org/live/155248215124.php?id=s714psa
+https://sc2024.stream-link.org/live/155248215124.php?id=s527jsa
 #EXTINF:-1 tvg-id="SkySportsNewsHD" tvg-name="Sky Sports News" tvg-logo="http://content.stream-link.org/tv_logo/sky_sports_news.png" group-title="體育休閒",Sky Sports News
-https://sc2024.stream-link.org/live/155248215124.php?id=s126qsf
+https://sc2024.stream-link.org/live/155248215124.php?id=s387csz
 #EXTINF:-1 tvg-id="SkySportsTennis" tvg-name="Sky Sports Tennis" tvg-logo="http://content.stream-link.org/tv_logo/sky_sports_tennis.png" group-title="體育休閒",Sky Sports Tennis
-https://sc2024.stream-link.org/live/155248215124.php?id=s484esj
+https://sc2024.stream-link.org/live/155248215124.php?id=s430fsk
 #EXTINF:-1 tvg-id="SkySportArena" tvg-name="Sky Sport Arena" tvg-logo="http://content.stream-link.org/tv_logo/sky_sport_arena.png" group-title="體育休閒",Sky Sport Arena
-https://sc2024.stream-link.org/live/155248215124.php?id=s258ksk
+https://sc2024.stream-link.org/live/155248215124.php?id=s321asz
 #EXTINF:-1 tvg-id="SkySportCalcio" tvg-name="Sky Sport Calcio" tvg-logo="http://content.stream-link.org/tv_logo/sky_sport_calcio.png" group-title="體育休閒",Sky Sport Calcio
-https://sc2024.stream-link.org/live/155248215124.php?id=s306dsb
+https://sc2024.stream-link.org/live/155248215124.php?id=s282kst
 #EXTINF:-1 tvg-id="SkySportF1" tvg-name="Sky Sport F1" tvg-logo="http://content.stream-link.org/tv_logo/sky_sport_f1.png" group-title="體育休閒",Sky Sport F1
-https://sc2024.stream-link.org/live/155248215124.php?id=s724vsh
+https://sc2024.stream-link.org/live/155248215124.php?id=s020jsb
 #EXTINF:-1 tvg-id="SkySportGolf" tvg-name="Sky Sport Golf" tvg-logo="http://content.stream-link.org/tv_logo/sky_sport_golf.png" group-title="體育休閒",Sky Sport Golf
-https://sc2024.stream-link.org/live/155248215124.php?id=s916msb
+https://sc2024.stream-link.org/live/155248215124.php?id=s988jsn
 #EXTINF:-1 tvg-id="SkySportMax" tvg-name="Sky Sport Max" tvg-logo="http://content.stream-link.org/tv_logo/sky_sport_max.png" group-title="體育休閒",Sky Sport Max
-https://sc2024.stream-link.org/live/155248215124.php?id=s690psm
+https://sc2024.stream-link.org/live/155248215124.php?id=s246jsj
 #EXTINF:-1 tvg-id="SkySportMotoGP" tvg-name="Sky Sport MotoGP" tvg-logo="http://content.stream-link.org/tv_logo/sky_sport_motogp.png" group-title="體育休閒",Sky Sport MotoGP
-https://sc2024.stream-link.org/live/155248215124.php?id=s683ksu
+https://sc2024.stream-link.org/live/155248215124.php?id=s934psv
 #EXTINF:-1 tvg-id="SkySportNBA" tvg-name="Sky Sport NBA" tvg-logo="http://content.stream-link.org/tv_logo/sky_sport_nba.png" group-title="體育休閒",Sky Sport NBA
-https://sc2024.stream-link.org/live/155248215124.php?id=s771fsb
+https://sc2024.stream-link.org/live/155248215124.php?id=s812psh
 #EXTINF:-1 tvg-id="SkySportTennis" tvg-name="Sky Sport Tennis" tvg-logo="http://content.stream-link.org/tv_logo/sky_sport_tennis.png" group-title="體育休閒",Sky Sport Tennis
-https://sc2024.stream-link.org/live/155248215124.php?id=s053ust
+https://sc2024.stream-link.org/live/155248215124.php?id=s149msf
 #EXTINF:-1 tvg-id="SkySportUno" tvg-name="Sky Sport Uno" tvg-logo="http://content.stream-link.org/tv_logo/sky_sport_uno.png" group-title="體育休閒",Sky Sport Uno
-https://sc2024.stream-link.org/live/155248215124.php?id=s833vsd
+https://sc2024.stream-link.org/live/155248215124.php?id=s688nsr
 #EXTINF:-1 tvg-id="SkySport24" tvg-name="Sky Sport 24" tvg-logo="http://content.stream-link.org/tv_logo/sky_sport_24.png" group-title="體育休閒",Sky Sport 24
-https://sc2024.stream-link.org/live/155248215124.php?id=s296rss
+https://sc2024.stream-link.org/live/155248215124.php?id=s868ust
 #EXTINF:-1 tvg-id="nowNBA" tvg-name="NBA TV" tvg-logo="http://content.stream-link.org/tv_logo/nba_tv.png" group-title="體育休閒",NBA TV(美職籃球)
-https://sc2024.stream-link.org/live/155248215124.php?id=s010nsv
+https://sc2024.stream-link.org/live/155248215124.php?id=s398bsm
 #EXTINF:-1 tvg-id="TNTSports1HD" tvg-name="TNT Sports 1" tvg-logo="http://content.stream-link.org/tv_logo/tnt_sports1.png" group-title="體育休閒",TNT Sports 1
-https://sc2024.stream-link.org/live/155248215124.php?id=s601rsg
+https://sc2024.stream-link.org/live/155248215124.php?id=s911rse
 #EXTINF:-1 tvg-id="TNTSports2HD" tvg-name="TNT Sports 2" tvg-logo="http://content.stream-link.org/tv_logo/tnt_sports2.png" group-title="體育休閒",TNT Sports 2
-https://sc2024.stream-link.org/live/155248215124.php?id=s191vsh
+https://sc2024.stream-link.org/live/155248215124.php?id=s094qsm
 #EXTINF:-1 tvg-id="TNTSports3HD" tvg-name="TNT Sports 3" tvg-logo="http://content.stream-link.org/tv_logo/tnt_sports3.png" group-title="體育休閒",TNT Sports 3
-https://sc2024.stream-link.org/live/155248215124.php?id=s959mss
+https://sc2024.stream-link.org/live/155248215124.php?id=s194ssb
 #EXTINF:-1 tvg-id="TNTSports4HD" tvg-name="TNT Sports 4" tvg-logo="http://content.stream-link.org/tv_logo/tnt_sports4.png" group-title="體育休閒",TNT Sports 4
-https://sc2024.stream-link.org/live/155248215124.php?id=s003tsh
+https://sc2024.stream-link.org/live/155248215124.php?id=s572jsc
 #EXTINF:-1 tvg-id="ViaplaySports1HD" tvg-name="Viaplay Sports 1" tvg-logo="http://content.stream-link.org/tv_logo/viaplay_sports1.png" group-title="體育休閒",Viaplay Sports 1
-https://sc2024.stream-link.org/live/155248215124.php?id=s394csa
+https://sc2024.stream-link.org/live/155248215124.php?id=s731dsa
 #EXTINF:-1 tvg-id="ViaplaySports2HD" tvg-name="Viaplay Sports 2" tvg-logo="http://content.stream-link.org/tv_logo/viaplay_sports2.png" group-title="體育休閒",Viaplay Sports 2
-https://sc2024.stream-link.org/live/155248215124.php?id=s428css
+https://sc2024.stream-link.org/live/155248215124.php?id=s844wsf
 #EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="http://content.stream-link.org/tv_logo/astro_spotv.png" group-title="體育休閒",SPOTV
-https://sc2024.stream-link.org/live/155248215124.php?id=s276msj
+https://sc2024.stream-link.org/live/155248215124.php?id=s830gsc
 #EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="http://content.stream-link.org/tv_logo/astro_spotv2.png" group-title="體育休閒",SPOTV 2
-https://sc2024.stream-link.org/live/155248215124.php?id=s015fsd
+https://sc2024.stream-link.org/live/155248215124.php?id=s926zsn
 #EXTINF:-1 tvg-id="nowSportsPremierLeague1" tvg-name="now英超1台" tvg-logo="http://content.stream-link.org/tv_logo/now_621.png" group-title="體育休閒",now英超1台
-https://sc2024.stream-link.org/live/155248215124.php?id=s982gsw
+https://sc2024.stream-link.org/live/155248215124.php?id=s882jsh
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://content.stream-link.org/tv_logo/espn.png" group-title="體育休閒",ESPN US
-https://sc2024.stream-link.org/live/155248215124.php?id=s105bss
+https://sc2024.stream-link.org/live/155248215124.php?id=s530gsj
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="http://content.stream-link.org/tv_logo/espn_2.png" group-title="體育休閒",ESPN2 US
-https://sc2024.stream-link.org/live/155248215124.php?id=s107rsb
+https://sc2024.stream-link.org/live/155248215124.php?id=s462psg
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="http://content.stream-link.org/tv_logo/espn_u.png" group-title="體育休閒",ESPNU  US
-https://sc2024.stream-link.org/live/155248215124.php?id=s785jsm
+https://sc2024.stream-link.org/live/155248215124.php?id=s030asb
 #EXTINF:-1 tvg-id="ESPNews.us" tvg-name="ESPN News" tvg-logo="http://content.stream-link.org/tv_logo/espn_news.png" group-title="體育休閒",ESPN News US
-https://sc2024.stream-link.org/live/155248215124.php?id=s210tse
+https://sc2024.stream-link.org/live/155248215124.php?id=s066qsh
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="http://content.stream-link.org/tv_logo/tennis_channel.png" group-title="體育休閒",Tennis Channel
-https://sc2024.stream-link.org/live/155248215124.php?id=s549ksw
+https://sc2024.stream-link.org/live/155248215124.php?id=s915asz
 #EXTINF:-1 tvg-id="PremierSports1" tvg-name="Premier Sports 1" tvg-logo="http://content.stream-link.org/tv_logo/premier_sports1.png" group-title="體育休閒",Premier Sports1
-https://sc2024.stream-link.org/live/155248215124.php?id=s942dsj
+https://sc2024.stream-link.org/live/155248215124.php?id=s697psb
 #EXTINF:-1 tvg-id="PremierSports2" tvg-name="Premier Sports 2" tvg-logo="http://content.stream-link.org/tv_logo/premier_sports2.png" group-title="體育休閒",Premier Sports2
-https://sc2024.stream-link.org/live/155248215124.php?id=s800vsu
+https://sc2024.stream-link.org/live/155248215124.php?id=s403wsw
 #EXTINF:-1 tvg-id="EltaSport1" tvg-name="愛爾達體育1台" tvg-logo="http://content.stream-link.org/tv_logo/elta_sport1.png" group-title="體育休閒",愛爾達體育1台(測試)
-https://sc2024.stream-link.org/live/155248215124.php?id=s624rsm
+https://sc2024.stream-link.org/live/155248215124.php?id=s764jsd
 #EXTINF:-1 tvg-id="EltaSport2" tvg-name="愛爾達體育2台" tvg-logo="http://content.stream-link.org/tv_logo/elta_sport2.png" group-title="體育休閒",愛爾達體育2台(測試)
-https://sc2024.stream-link.org/live/155248215124.php?id=s593zsp
+https://sc2024.stream-link.org/live/155248215124.php?id=s993esh
 #EXTINF:-1 tvg-id="EltaSport3" tvg-name="愛爾達體育3台" tvg-logo="http://content.stream-link.org/tv_logo/elta_sport3.png" group-title="體育休閒",愛爾達體育3台(測試)
-https://sc2024.stream-link.org/live/155248215124.php?id=s521jse
+https://sc2024.stream-link.org/live/155248215124.php?id=s813dsv
 #EXTINF:-1 tvg-id="9999" tvg-name="ANN News" tvg-logo="http://content.stream-link.org/tv_logo/ann_news.png" group-title="News",ANN News
-https://sc2024.stream-link.org/live/155248215124.php?id=e998reh
+https://sc2024.stream-link.org/live/155248215124.php?id=e949beu
 #EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific" tvg-name="BBC News" tvg-logo="http://content.stream-link.org/tv_logo/bbc_news.png" group-title="News",BBC News Asia
-https://sc2024.stream-link.org/live/155248215124.php?id=e073veq
+https://sc2024.stream-link.org/live/155248215124.php?id=e219peb
 #EXTINF:-1 tvg-id="BloombergTVAsia" tvg-name="Bloomberg" tvg-logo="http://content.stream-link.org/tv_logo/bloomberg.png" group-title="News",Bloomberg Asia
-https://sc2024.stream-link.org/live/155248215124.php?id=e629geu
+https://sc2024.stream-link.org/live/155248215124.php?id=e518vea
 #EXTINF:-1 tvg-id="CBNNews" tvg-name="CBN News" tvg-logo="http://content.stream-link.org/tv_logo/cbn_news.png" group-title="News",CBN News
-https://sc2024.stream-link.org/live/155248215124.php?id=e341kek
+https://sc2024.stream-link.org/live/155248215124.php?id=e190teb
 #EXTINF:-1 tvg-id="CBSNews" tvg-name="CBS News" tvg-logo="http://content.stream-link.org/tv_logo/cbs_news.png" group-title="News",CBS News
-https://sc2024.stream-link.org/live/155248215124.php?id=e581veu
+https://sc2024.stream-link.org/live/155248215124.php?id=e788bee
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA News" tvg-logo="http://content.stream-link.org/tv_logo/cna_news.png" group-title="News",CNA News
-https://sc2024.stream-link.org/live/155248215124.php?id=e061fes
+https://sc2024.stream-link.org/live/155248215124.php?id=e317eew
 #EXTINF:-1 tvg-id="CNBCAsia" tvg-name="CNBC" tvg-logo="http://content.stream-link.org/tv_logo/cnbc.png" group-title="News",CNBC Asia
-https://sc2024.stream-link.org/live/155248215124.php?id=e392veg
+https://sc2024.stream-link.org/live/155248215124.php?id=e935teb
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN Live" tvg-logo="http://content.stream-link.org/tv_logo/cnn_live.png" group-title="News",CNN Live
-https://sc2024.stream-link.org/live/155248215124.php?id=e443mev
+https://sc2024.stream-link.org/live/155248215124.php?id=e689uev
 #EXTINF:-1 tvg-id="DWEnglish" tvg-name="DW News" tvg-logo="http://content.stream-link.org/tv_logo/dw_news.png" group-title="News",DW News
-https://sc2024.stream-link.org/live/155248215124.php?id=e145uee
+https://sc2024.stream-link.org/live/155248215124.php?id=e008rez
 #EXTINF:-1 tvg-id="FoxNewsChannel" tvg-name="Fox Live" tvg-logo="http://content.stream-link.org/tv_logo/fox_live.png" group-title="News",Fox Live
-https://sc2024.stream-link.org/live/155248215124.php?id=e743fee
+https://sc2024.stream-link.org/live/155248215124.php?id=e383kej
 #EXTINF:-1 tvg-id="France24English" tvg-name="France 24 English" tvg-logo="http://content.stream-link.org/tv_logo/france_24E.png" group-title="News",France 24 English
-https://sc2024.stream-link.org/live/155248215124.php?id=e527uez
+https://sc2024.stream-link.org/live/155248215124.php?id=e346uee
 #EXTINF:-1 tvg-id="NBCNews" tvg-name="NBC News" tvg-logo="http://content.stream-link.org/tv_logo/nbc_news.png" group-title="News",NBC News
-https://sc2024.stream-link.org/live/155248215124.php?id=e178geb
+https://sc2024.stream-link.org/live/155248215124.php?id=e022cee
 #EXTINF:-1 tvg-id="NHKWorldJapan" tvg-name="NHK World Japan" tvg-logo="http://content.stream-link.org/tv_logo/nhk_world.png" group-title="News",NHK World Japan
-https://sc2024.stream-link.org/live/155248215124.php?id=e334hed
+https://sc2024.stream-link.org/live/155248215124.php?id=e163seu
 #EXTINF:-1 tvg-id="SkyNews" tvg-name="SKY News" tvg-logo="http://content.stream-link.org/tv_logo/sky_news.png" group-title="News",SKY News
-https://sc2024.stream-link.org/live/155248215124.php?id=e775hes
+https://sc2024.stream-link.org/live/155248215124.php?id=e005ceg
 #EXTINF:-1 tvg-id="TRTWorld" tvg-name="TRT World" tvg-logo="http://content.stream-link.org/tv_logo/trt_world.png" group-title="News",TRT World
-https://sc2024.stream-link.org/live/155248215124.php?id=e061tef
+https://sc2024.stream-link.org/live/155248215124.php?id=e125sed
 #EXTINF:-1 tvg-id="YonhapNewsTV" tvg-name="韓聯社新聞" tvg-logo="http://content.stream-link.org/tv_logo/kr_yonhap_news_tv.jpg" group-title="日韓",연합뉴스TV_로고(韓聯社新聞)
-https://sc2024.stream-link.org/live/155248215124.php?id=e158jec
+https://sc2024.stream-link.org/live/155248215124.php?id=e710ees
 #EXTINF:-1 tvg-id="KBSWorld" tvg-name="KBS World" tvg-logo="http://content.stream-link.org/tv_logo/kbs_world.png" group-title="日韓",KBS World
-https://sc2024.stream-link.org/live/155248215124.php?id=e802eeh
+https://sc2024.stream-link.org/live/155248215124.php?id=e707mez
 #EXTINF:-1 tvg-id="9999" tvg-name="Japan weather news" tvg-logo="http://content.stream-link.org/tv_logo/jp_wni.png" group-title="日韓",Japan weather news
-https://sc2024.stream-link.org/live/155248215124.php?id=e531veg
+https://sc2024.stream-link.org/live/155248215124.php?id=e446gev
 #EXTINF:-1 tvg-id="GEM" tvg-name="Sony GEM" tvg-logo="http://content.stream-link.org/tv_logo/gem.png" group-title="日韓",GEM
-https://sc2024.stream-link.org/live/155248215124.php?id=e816kez
+https://sc2024.stream-link.org/live/155248215124.php?id=e839aes
 #EXTINF:-1 tvg-id="PLAYY" tvg-name="PLAYY電影" tvg-logo="http://content.stream-link.org/tv_logo/playy_1.png" group-title="電影&劇集",PLAYY 韓國電影台
-https://sc2024.stream-link.org/live/155248215124.php?id=e449heh
+https://sc2024.stream-link.org/live/155248215124.php?id=e093web
 #EXTINF:-1 tvg-id="sonypixhd" tvg-name="SONY PIX HD" tvg-logo="http://content.stream-link.org/tv_logo/sony_pix.png" group-title="電影&劇集",SONY PIX HD(電影台)
-https://sc2024.stream-link.org/live/155248215124.php?id=e955ded
+https://sc2024.stream-link.org/live/155248215124.php?id=e317dew
 #EXTINF:-1 tvg-id="TraceUrban" tvg-name="Trace Urban" tvg-logo="http://content.stream-link.org/tv_logo/trace_urban.png" group-title="休閒&記錄",TraceUrban
-https://sc2024.stream-link.org/live/155248215124.php?id=e104eej
+https://sc2024.stream-link.org/live/155248215124.php?id=e086pea
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-name="AMC East" tvg-logo="http://content.stream-link.org/tv_logo/amc.png" group-title="電影&劇集",AMC East(測試)
-https://sc2024.stream-link.org/live/155248215124.php?id=e333fet
+https://sc2024.stream-link.org/live/155248215124.php?id=e394ser
 #EXTINF:-1 tvg-id="HBOEast.us" tvg-name="HBO East" tvg-logo="http://content.stream-link.org/tv_logo/hbo_east.png" group-title="電影&劇集",HBO East(測試)
-https://sc2024.stream-link.org/live/155248215124.php?id=e729pea
+https://sc2024.stream-link.org/live/155248215124.php?id=e007ved
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-name="TNT East" tvg-logo="http://content.stream-link.org/tv_logo/tnt_east.png" group-title="電影&劇集",TNT East(測試)
-https://sc2024.stream-link.org/live/155248215124.php?id=e575teq
+https://sc2024.stream-link.org/live/155248215124.php?id=e574hed
 #EXTINF:-1 tvg-id="FoxEast.us" tvg-name="FOX East" tvg-logo="http://content.stream-link.org/tv_logo/fox_east.png" group-title="電影&劇集",FOX East(測試)
-https://sc2024.stream-link.org/live/155248215124.php?id=e323aet
+https://sc2024.stream-link.org/live/155248215124.php?id=e829zek
 #EXTINF:-1 tvg-id="DiscoveryAsia.sg" tvg-name="Discovery Asia" tvg-logo="http://content.stream-link.org/tv_logo/discovery_asia.png" group-title="休閒&記錄",Discovery Asia(測試)
-https://sc2024.stream-link.org/live/155248215124.php?id=e639beb
+https://sc2024.stream-link.org/live/155248215124.php?id=e687uej
 #EXTINF:-1 tvg-id="4gtv-live114" tvg-name="東森新聞" tvg-logo="http://content.stream-link.org/tv_logo/ebc_news.png" group-title="台灣新聞",東森新聞
-https://sc2024.stream-link.org/live/155248215124.php?id=t932dtb
+https://sc2024.stream-link.org/live/155248215124.php?id=t102vts
 #EXTINF:-1 tvg-id="4gtv-live019" tvg-name="東森財經新聞" tvg-logo="http://content.stream-link.org/tv_logo/ebc_finance.png" group-title="台灣新聞",東森財經新聞
-https://sc2024.stream-link.org/live/155248215124.php?id=t369vta
+https://sc2024.stream-link.org/live/155248215124.php?id=t461tte
 #EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新聞" tvg-logo="http://content.stream-link.org/tv_logo/cti_news.png" group-title="台灣新聞",中天新聞
-https://sc2024.stream-link.org/live/155248215124.php?id=t754etc
+https://sc2024.stream-link.org/live/155248215124.php?id=t804ctk
 #EXTINF:-1 tvg-id="4gtv-4gtv052" tvg-name="華視新聞" tvg-logo="http://content.stream-link.org/tv_logo/cts_news.png" group-title="台灣新聞",華視新聞
-https://sc2024.stream-link.org/live/155248215124.php?id=t592ctm
+https://sc2024.stream-link.org/live/155248215124.php?id=t890htt
 #EXTINF:-1 tvg-id="4gtv-4gtv074" tvg-name="中視新聞" tvg-logo="http://content.stream-link.org/tv_logo/ctv_news.png" group-title="台灣新聞",中視新聞
-https://sc2024.stream-link.org/live/155248215124.php?id=t260hta
+https://sc2024.stream-link.org/live/155248215124.php?id=t147rtw
 #EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞" tvg-logo="http://content.stream-link.org/tv_logo/ftv_news.png" group-title="台灣新聞",民視新聞
-https://sc2024.stream-link.org/live/155248215124.php?id=t562qtw
+https://sc2024.stream-link.org/live/155248215124.php?id=t927dtw
 #EXTINF:-1 tvg-id="litv-longturn14" tvg-name="寰宇國際新聞" tvg-logo="http://content.stream-link.org/tv_logo/global_news.png" group-title="台灣新聞",寰宇新聞
-https://sc2024.stream-link.org/live/155248215124.php?id=t298ktm
+https://sc2024.stream-link.org/live/155248215124.php?id=t441dtf
 #EXTINF:-1 tvg-id="litv-longturn15" tvg-name="寰宇台灣新聞" tvg-logo="http://content.stream-link.org/tv_logo/global_tw.png" group-title="台灣新聞",寰宇台灣新聞
-https://sc2024.stream-link.org/live/155248215124.php?id=t426ata
+https://sc2024.stream-link.org/live/155248215124.php?id=t790nts
 #EXTINF:-1 tvg-id="litv-longturn23" tvg-name="寰宇財經新聞" tvg-logo="http://content.stream-link.org/tv_logo/global_finance.png" group-title="台灣新聞",寰宇財經新聞
-https://sc2024.stream-link.org/live/155248215124.php?id=t564ktd
+https://sc2024.stream-link.org/live/155248215124.php?id=t100etg
 #EXTINF:-1 tvg-id="4gtv-live089" tvg-name="三立財經新聞" tvg-logo="http://content.stream-link.org/tv_logo/set_inews.png" group-title="台灣新聞",三立財經新聞
-https://sc2024.stream-link.org/live/155248215124.php?id=t214etc
+https://sc2024.stream-link.org/live/155248215124.php?id=t963ktq
 #EXTINF:-1 tvg-id="set_news" tvg-name="三立新聞台" tvg-logo="http://content.stream-link.org/tv_logo/set_news.png" group-title="台灣新聞",三立新聞台
-https://sc2024.stream-link.org/live/155248215124.php?id=t010dtw
+https://sc2024.stream-link.org/live/155248215124.php?id=t500utp
 #EXTINF:-1 tvg-id="9999" tvg-name="三立新聞+" tvg-logo="http://content.stream-link.org/tv_logo/set_news+.png" group-title="台灣新聞",三立新聞+
-https://sc2024.stream-link.org/live/155248215124.php?id=t307wtj
+https://sc2024.stream-link.org/live/155248215124.php?id=t666stq
 #EXTINF:-1 tvg-id="4gtv-4gtv051" tvg-name="台視新聞台" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_051.png" group-title="台灣新聞",台視新聞台
-https://sc2024.stream-link.org/live/155248215124.php?id=t068qtt
+https://sc2024.stream-link.org/live/155248215124.php?id=t854ett
 #EXTINF:-1 tvg-id="4gtv-4gtv056" tvg-name="台視財經台" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_056.png" group-title="台灣新聞",台視財經台
-https://sc2024.stream-link.org/live/155248215124.php?id=t360qtu
+https://sc2024.stream-link.org/live/155248215124.php?id=t882ztf
 #EXTINF:-1 tvg-id="9999" tvg-name="公視新聞" tvg-logo="http://content.stream-link.org/tv_logo/pts_news.png" group-title="台灣新聞",公視新聞
-https://sc2024.stream-link.org/live/155248215124.php?id=t633btu
+https://sc2024.stream-link.org/live/155248215124.php?id=t139dtn
 #EXTINF:-1 tvg-id="4gtv-4gtv010" tvg-name="非凡新聞" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_010.png" group-title="台灣新聞",非凡新聞
-https://sc2024.stream-link.org/live/155248215124.php?id=t544ntn
+https://sc2024.stream-link.org/live/155248215124.php?id=t371vtb
 #EXTINF:-1 tvg-id="4gtv-4gtv048" tvg-name="非凡商業台" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_048.png" group-title="台灣新聞",非凡商業台
-https://sc2024.stream-link.org/live/155248215124.php?id=t573stp
+https://sc2024.stream-link.org/live/155248215124.php?id=t669rtw
 #EXTINF:-1 tvg-id="4gtv-live072" tvg-name="TVBS新聞" tvg-logo="http://content.stream-link.org/tv_logo/tvbs_news.png" group-title="台灣新聞",TVBS新聞
-https://sc2024.stream-link.org/live/155248215124.php?id=t145htg
+https://sc2024.stream-link.org/live/155248215124.php?id=t763utp
 #EXTINF:-1 tvg-id="4gtv-4gtv073" tvg-name="TVBS" tvg-logo="http://content.stream-link.org/tv_logo/tvbs_finance.png" group-title="台灣新聞",TVBS
-https://sc2024.stream-link.org/live/155248215124.php?id=t335tth
+https://sc2024.stream-link.org/live/155248215124.php?id=t683dtp
 #EXTINF:-1 tvg-id="9999" tvg-name="天才衝衝衝" tvg-logo="http://content.stream-link.org/tv_logo/cts_entertainment.png" group-title="台灣綜合綜藝",天才衝衝衝
-https://sc2024.stream-link.org/live/155248215124.php?id=t586qtb
+https://sc2024.stream-link.org/live/155248215124.php?id=t036mtf
 #EXTINF:-1 tvg-id="SmartTV" tvg-name="Smart知識頻道" tvg-logo="http://content.stream-link.org/tv_logo/longturn19.png" group-title="台灣綜合綜藝",Smart知識頻道
-https://sc2024.stream-link.org/live/155248215124.php?id=t565htq
+https://sc2024.stream-link.org/live/155248215124.php?id=t919ttv
 #EXTINF:-1 tvg-id="4gtv-live087" tvg-name="TVBS綜藝台" tvg-logo="http://content.stream-link.org/tv_logo/tvbs_zy.png" group-title="台灣綜合綜藝",TVBS綜藝台
-https://sc2024.stream-link.org/live/155248215124.php?id=t249ctf
+https://sc2024.stream-link.org/live/155248215124.php?id=t034ztb
 #EXTINF:-1 tvg-id="4gtv-live088" tvg-name="TVBS台劇台" tvg-logo="http://content.stream-link.org/tv_logo/tvbs_tj.png" group-title="台灣綜合綜藝",TVBS台劇台
-https://sc2024.stream-link.org/live/155248215124.php?id=t364dtd
+https://sc2024.stream-link.org/live/155248215124.php?id=t229rth
 #EXTINF:-1 tvg-id="4gtv-4gtv067" tvg-name="TVBS精彩台" tvg-logo="http://content.stream-link.org/tv_logo/tvbs_jc.png" group-title="台灣綜合綜藝",TVBS精彩台
-https://sc2024.stream-link.org/live/155248215124.php?id=t428ntu
+https://sc2024.stream-link.org/live/155248215124.php?id=t722ftp
 #EXTINF:-1 tvg-id="4gtv-4gtv068" tvg-name="TVBS歡樂台" tvg-logo="http://content.stream-link.org/tv_logo/tvbs_42.png" group-title="台灣綜合綜藝",TVBS歡樂台
-https://sc2024.stream-link.org/live/155248215124.php?id=t606gtd
+https://sc2024.stream-link.org/live/155248215124.php?id=t811sta
 #EXTINF:-1 tvg-id="TVBSAsia" tvg-name="TVBS亞洲台" tvg-logo="http://content.stream-link.org/tv_logo/tvbs_asia.png" group-title="台灣綜合綜藝",TVBS亞洲台
-https://sc2024.stream-link.org/live/155248215124.php?id=t785utt
+https://sc2024.stream-link.org/live/155248215124.php?id=t372ctf
 #EXTINF:-1 tvg-id="CTiAsia" tvg-name="中天亞洲台" tvg-logo="http://content.stream-link.org/tv_logo/cti_asia.png" group-title="台灣綜合綜藝",中天亞洲台
-https://sc2024.stream-link.org/live/155248215124.php?id=t517ztp
+https://sc2024.stream-link.org/live/155248215124.php?id=t230gtg
 #EXTINF:-1 tvg-id="4gtv-live207" tvg-name="三立綜合台" tvg-logo="http://content.stream-link.org/tv_logo/set_zh.png" group-title="台灣綜合綜藝",三立綜合台
-https://sc2024.stream-link.org/live/155248215124.php?id=t249ntr
+https://sc2024.stream-link.org/live/155248215124.php?id=t643ctn
 #EXTINF:-1 tvg-id="4gtv-4gtv002" tvg-name="民視HD" tvg-logo="http://content.stream-link.org/tv_logo/ftv_hd.png" group-title="台灣綜合綜藝",民視HD
-https://sc2024.stream-link.org/live/155248215124.php?id=t636jth
+https://sc2024.stream-link.org/live/155248215124.php?id=t805ate
 #EXTINF:-1 tvg-id="4gtv-4gtv003" tvg-name="民視第一台" tvg-logo="http://content.stream-link.org/tv_logo/ftv_1.png" group-title="台灣綜合綜藝",民視第一台
-https://sc2024.stream-link.org/live/155248215124.php?id=t887rtc
+https://sc2024.stream-link.org/live/155248215124.php?id=t095htt
 #EXTINF:-1 tvg-id="4gtv-4gtv001" tvg-name="民視台灣台" tvg-logo="http://content.stream-link.org/tv_logo/ftv_tw.png" group-title="台灣綜合綜藝",民視台灣台
-https://sc2024.stream-link.org/live/155248215124.php?id=t368wtm
+https://sc2024.stream-link.org/live/155248215124.php?id=t328ptw
 #EXTINF:-1 tvg-id="4gtv-4gtv004" tvg-name="民視綜藝台" tvg-logo="http://content.stream-link.org/tv_logo/ftv_entertainment.png" group-title="台灣綜合綜藝",民視綜藝台
-https://sc2024.stream-link.org/live/155248215124.php?id=t639mtj
+https://sc2024.stream-link.org/live/155248215124.php?id=t820ctg
 #EXTINF:-1 tvg-id="litv-ftv09" tvg-name="民視影劇台" tvg-logo="http://content.stream-link.org/tv_logo/ftv_drama.png" group-title="台灣綜合綜藝",民視影劇台
-https://sc2024.stream-link.org/live/155248215124.php?id=t638ftm
+https://sc2024.stream-link.org/live/155248215124.php?id=t485htb
 #EXTINF:-1 tvg-id="litv-ftv07" tvg-name="民視旅遊台" tvg-logo="http://content.stream-link.org/tv_logo/ftv_travel.png" group-title="台灣綜合綜藝",民視旅遊台
-https://sc2024.stream-link.org/live/155248215124.php?id=t532wtc
+https://sc2024.stream-link.org/live/155248215124.php?id=t536ctt
 #EXTINF:-1 tvg-id="4gtv-4gtv070" tvg-name="愛爾達娛樂台" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_070.png" group-title="台灣綜合綜藝",愛爾達娛樂台
-https://sc2024.stream-link.org/live/155248215124.php?id=t339dtz
+https://sc2024.stream-link.org/live/155248215124.php?id=t830jtj
 #EXTINF:-1 tvg-id="4gtv-live069" tvg-name="CinemaWorld電影" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_live069.png" group-title="電影&劇集",CinemaWorld電影
-https://sc2024.stream-link.org/live/155248215124.php?id=t342ztw
+https://sc2024.stream-link.org/live/155248215124.php?id=t392gtj
 #EXTINF:-1 tvg-id="litv-longturn03" tvg-name="龍華電影" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_003.png" group-title="電影&劇集",龍華電影
-https://sc2024.stream-link.org/live/155248215124.php?id=t975rtj
+https://sc2024.stream-link.org/live/155248215124.php?id=t982qtm
 #EXTINF:-1 tvg-id="4gtv-4gtv061" tvg-name="靖天電影台" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_061.png" group-title="電影&劇集",靖天電影台
-https://sc2024.stream-link.org/live/155248215124.php?id=t006ktz
+https://sc2024.stream-link.org/live/155248215124.php?id=t180gta
 #EXTINF:-1 tvg-id="4gtv-4gtv011" tvg-name="影迷數位電影台" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_011.png" group-title="電影&劇集",影迷數位電影台
-https://sc2024.stream-link.org/live/155248215124.php?id=t253pts
+https://sc2024.stream-link.org/live/155248215124.php?id=t506ttd
 #EXTINF:-1 tvg-id="4gtv-4gtv017" tvg-name="amc電影台" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_4gtv017.png" group-title="電影&劇集",amc電影台
-https://sc2024.stream-link.org/live/155248215124.php?id=t904gth
+https://sc2024.stream-link.org/live/155248215124.php?id=t854ptv
 #EXTINF:-1 tvg-id="ROCKEntertainment" tvg-name="ROCK Entertainment" tvg-logo="http://content.stream-link.org/tv_logo/rock_entertainment.png" group-title="電影&劇集",ROCK Entertainment
-https://sc2024.stream-link.org/live/155248215124.php?id=t806ptb
+https://sc2024.stream-link.org/live/155248215124.php?id=t990dtp
 #EXTINF:-1 tvg-id="CATCHPLAY" tvg-name="CatchPlay電影台" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_076.png" group-title="電影&劇集",CatchPlay電影台
-https://sc2024.stream-link.org/live/155248215124.php?id=t301fts
+https://sc2024.stream-link.org/live/155248215124.php?id=t474sta
 #EXTINF:-1 tvg-id="NickelodeonAsia" tvg-name="尼克兒童頻道" tvg-logo="http://content.stream-link.org/tv_logo/nickelodeon.png" group-title="兒童頻道",尼克兒童頻道
-https://sc2024.stream-link.org/live/155248215124.php?id=t562wts
+https://sc2024.stream-link.org/live/155248215124.php?id=t762cta
 #EXTINF:-1 tvg-id="NickJrAsia" tvg-name="Nick Jr. 兒童頻道" tvg-logo="http://content.stream-link.org/tv_logo/nickjr.png" group-title="兒童頻道",Nick Jr. 兒童頻道
-https://sc2024.stream-link.org/live/155248215124.php?id=t850btt
+https://sc2024.stream-link.org/live/155248215124.php?id=t660etf
 #EXTINF:-1 tvg-id="DreamWorksChannelAsia" tvg-name="DreamWorks Channel Asia" tvg-logo="http://content.stream-link.org/tv_logo/dreamworks.png" group-title="兒童頻道",Dream Works夢工廠動畫
-https://sc2024.stream-link.org/live/155248215124.php?id=t329ktr
+https://sc2024.stream-link.org/live/155248215124.php?id=t640gtm
 #EXTINF:-1 tvg-id="4gtv-4gtv018" tvg-name="達文西頻道" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_4gtv018.png" group-title="兒童頻道",達文西頻道
-https://sc2024.stream-link.org/live/155248215124.php?id=t553gtu
+https://sc2024.stream-link.org/live/155248215124.php?id=t972ptj
 #EXTINF:-1 tvg-id="litv-longturn20" tvg-name="ELTV生活英語台" tvg-logo="http://content.stream-link.org/tv_logo/longturn20.png" group-title="兒童頻道",ELTV生活英語台
-https://sc2024.stream-link.org/live/155248215124.php?id=t497ntn
+https://sc2024.stream-link.org/live/155248215124.php?id=t190ntp
 #EXTINF:-1 tvg-id="4gtv-live029" tvg-name="Lifetime" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_live029.png" group-title="休閒&記錄",Lifetime
-https://sc2024.stream-link.org/live/155248215124.php?id=t579mtc
+https://sc2024.stream-link.org/live/155248215124.php?id=t613ztw
 #EXTINF:-1 tvg-id="4gtv-live025" tvg-name="MTV Live" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_025.png" group-title="休閒&記錄",MTV Live
-https://sc2024.stream-link.org/live/155248215124.php?id=t740btr
+https://sc2024.stream-link.org/live/155248215124.php?id=t421atg
 #EXTINF:-1 tvg-id="4gtv-live026" tvg-name="History歷史頻道" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_026.png" group-title="休閒&記錄",History歷史頻道
-https://sc2024.stream-link.org/live/155248215124.php?id=t869gtr
+https://sc2024.stream-link.org/live/155248215124.php?id=t658ktk
 #EXTINF:-1 tvg-id="4gtv-live027" tvg-name="CI 罪案偵查頻道" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_027.png" group-title="休閒&記錄",CI 罪案偵查頻道
-https://sc2024.stream-link.org/live/155248215124.php?id=t672ttu
+https://sc2024.stream-link.org/live/155248215124.php?id=t676ftj
 #EXTINF:-1 tvg-id="4gtv-4gtv016" tvg-name="Globetrotter" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_016.png" group-title="休閒&記錄",Globetrotter環遊旅行家
-https://sc2024.stream-link.org/live/155248215124.php?id=t152rtp
+https://sc2024.stream-link.org/live/155248215124.php?id=t323mtt
 #EXTINF:-1 tvg-id="4gtv-live120" tvg-name="愛爾達生活旅遊台" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_live120.png" group-title="休閒&記錄",愛爾達生活旅遊台
-https://sc2024.stream-link.org/live/155248215124.php?id=t268btk
+https://sc2024.stream-link.org/live/155248215124.php?id=t864atc
 #EXTINF:-1 tvg-id="litv-longturn17" tvg-name="亞洲旅遊台" tvg-logo="http://content.stream-link.org/tv_logo/asia_travel.png" group-title="休閒&記錄",亞洲旅遊台
-https://sc2024.stream-link.org/live/155248215124.php?id=t544jtn
+https://sc2024.stream-link.org/live/155248215124.php?id=t429vtu
 #EXTINF:-1 tvg-id="4gtv-live112" tvg-name="Global Trekker" tvg-logo="http://content.stream-link.org/tv_logo/global_trekker.png" group-title="休閒&記錄",Global Trekker探索世界
-https://sc2024.stream-link.org/live/155248215124.php?id=t728htn
+https://sc2024.stream-link.org/live/155248215124.php?id=t836rtr
 #EXTINF:-1 tvg-id="LoveNature" tvg-name="Love Nature" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_208.png" group-title="休閒&記錄",Love Nature
-https://sc2024.stream-link.org/live/155248215124.php?id=t059ttk
+https://sc2024.stream-link.org/live/155248215124.php?id=t198rtj
 #EXTINF:-1 tvg-id="4gtv-live206" tvg-name="幸福空間居家台" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_live206.png" group-title="休閒&記錄",幸福空間居家台
-https://sc2024.stream-link.org/live/155248215124.php?id=t282ntc
+https://sc2024.stream-link.org/live/155248215124.php?id=t449mtq
